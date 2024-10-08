@@ -18,9 +18,9 @@
 
 - 🎓 I'm a Student and Web Developer
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 2024 Goals: Learn DevOps, Nextjs And strengthen DSA
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate with open-source enthusiasts
+- 🥅 2024 Goals: Learn DevOps And strengthen DSA
 
 <br>
 
@@ -28,8 +28,8 @@
 
 <div align="center">
 
-<a href="https://instagram.com/sid_kulkarni_712" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/siddheya-kulkarni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/peculiar_psa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/p-sreyanshu-anupam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -41,7 +41,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,nodejs,express,angular,jquery,materialui,tailwind,redux,ts,vite,php,mongodb,mysql,threejs,django,next,postman,cpp,java,aws,ruby,heroku,vercel,netlify,firebase,git,bash,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,tailwind,redux,vite,mongodb,mysql,postman,cpp,java,vercel,netlify,firebase,git,bash,linux&perline=11" />
 </a>
 
 </div>
@@ -62,6 +62,18 @@
 
 </div><br>
 
+
+<p align="center">
+  <a href="https://buymeacoffee.com/peculiar_psa" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
+
+<hr>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=psa21git&color=red" alt="Total Github views" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+<!--
 # 🏆 Trophies
 
 <div align="center">
@@ -72,17 +84,6 @@
   <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
 </p>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/siddheyakue" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
-  </a>
-</p>
-
-<hr>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=psa21git&color=red" alt="Total Github views" />
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
-<!--
 **psa21git/psa21git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
