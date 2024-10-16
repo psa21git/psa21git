@@ -62,12 +62,13 @@
 
 </div><br>
 
-
+<!--
 <p align="center">
   <a href="https://buymeacoffee.com/peculiar_psa" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
+-->
 
 <hr>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=psa21git&color=red" alt="Total Github views" />
