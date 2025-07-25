@@ -16,11 +16,11 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Student and Web Developer
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning C++
+- 🎓 I'm a Student and Data Scientist
+- 🔭 I’m currently working on ML Projects
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate with open-source enthusiasts
-- 🥅 2024 Goals: Learn DevOps And strengthen DSA
+- 🥅 2024 Goals: Learn Deep Learning And strengthen DSA
 
 <br>
 
