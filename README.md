@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on ML Projects
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate with open-source enthusiasts
-- 🥅 2025 Goals: Learn Deep Learning And strengthen DSA
+- 🥅 2026 Goals: Learn Deep Learning And strengthen DSA
 
 <br>
 
